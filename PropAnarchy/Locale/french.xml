@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language UniqueName="fr" ReadableName="Français" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translations>
+    <Translation ID="PTA_DESCRIPTION" String="Place les props et les arbres ou vous voulez" />
+    <!-- OPTIONS -->
+    <Translation ID="PTA_OPTION_NO_UI" String="Pas de UI" />
+    <Translation ID="PTA_OPTION_UNHIDE_PROPS" String="Afficher tous les accessoires sur le chargement de niveau" />
+    <Translation ID="PTA_OPTION_UNHIDE_TREES" String="Afficher tous les arbres au chargement de niveau" />
+    <Translation ID="PTA_OPTION_ALWAYS_ON" String="Le mod Anarchy est toujours activée" />
+    <Translation ID="PTA_OPTION_DEFAULT_ON" String="Par défaut, le mod Anarchy est sur ACTIVÉ (ignoré si le mod Anarchy est toujours sur ACTIVÉ)" />
+    <Translation ID="PTA_OPTION_COMBO" String="Basculer la combinaison de touches ACTIVÉ/ÉTEINT (ignorée si le mod Anarchy est toujours ACTIVÉ)" />
+    <!-- UI -->
+    <Translation ID="PTA_ON" String="Prop &amp; Anarchy Arbres: ACTIVÉ" />
+    <Translation ID="PTA_OFF" String="Prop &amp; Anarchy Arbres: ÉTEINT" />
+  </Translations>
+</Language>
